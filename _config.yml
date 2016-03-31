@@ -1,0 +1,28 @@
+name: VR360
+favicon: null
+layout_spectrum: 0.1475225230678916
+typography_spectrum: 0.9964302105363458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6634481356013566
+  lightness: 0.041255606105551124
+  saturation: 0.8209950320888311
+  rhythmicContrast: 0.35082118585705757
+purpose: []
