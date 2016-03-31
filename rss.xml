@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VR360]]></title>
         <description><![CDATA[VR360]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vr360/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 05:46:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 05:53:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vr360/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Virtual Reality - it's like being there.</p>]]></description>
+            <link>https://thegrid.ai/vr360/virtual-reality-its-like-being-there/index.html</link>
+            <guid isPermaLink="false">abc92926-7e71-45d9-b466-b45b2c4560d5</guid>
+            <pubDate>Thu, 31 Mar 2016 05:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Virtual Reality - it's like being there!</p>]]></description>
-            <link>undefinedvirtual-reality-its-like-being-there/index.html</link>
+            <link>https://thegrid.ai/vr360/virtual-reality-its-like-being-there/index.html</link>
             <guid isPermaLink="false">ef0ccb59-bd31-4018-9a62-3b3247352f9e</guid>
             <pubDate>Thu, 31 Mar 2016 05:46:15 GMT</pubDate>
         </item>
